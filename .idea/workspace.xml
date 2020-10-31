@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c3f671e-8513-4c3d-b81d-4c3c52bb54a5" name="Default Changelist" comment="" />
+    <list default="true" id="8c3f671e-8513-4c3d-b81d-4c3c52bb54a5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SnakeAndLadder/com/bridgelabz/snakeandladder/SnakeAndLadder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SnakeAndLadder/com/bridgelabz/snakeandladder/SnakeAndLadder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/snakeandladder/SnakeAndLadder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/snakeandladder/SnakeAndLadder.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="SnakeAndLadder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -74,21 +79,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="879" height="335" key="GridCell.Tab.0.bottom" timestamp="1604150985591">
+    <state width="879" height="335" key="GridCell.Tab.0.bottom" timestamp="1604153562666">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="879" height="335" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1604150985591" />
-    <state width="879" height="335" key="GridCell.Tab.0.center" timestamp="1604150985588">
+    <state width="879" height="335" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1604153562666" />
+    <state width="879" height="335" key="GridCell.Tab.0.center" timestamp="1604153562666">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="879" height="335" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1604150985588" />
-    <state width="879" height="335" key="GridCell.Tab.0.left" timestamp="1604150985587">
+    <state width="879" height="335" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1604153562666" />
+    <state width="879" height="335" key="GridCell.Tab.0.left" timestamp="1604153562666">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="879" height="335" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1604150985587" />
-    <state width="879" height="335" key="GridCell.Tab.0.right" timestamp="1604150985590">
+    <state width="879" height="335" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1604153562666" />
+    <state width="879" height="335" key="GridCell.Tab.0.right" timestamp="1604153562666">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="879" height="335" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1604150985590" />
+    <state width="879" height="335" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1604153562666" />
+    <state width="879" height="340" key="GridCell.Tab.1.bottom" timestamp="1604153256300">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="879" height="340" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1604153256300" />
+    <state width="879" height="340" key="GridCell.Tab.1.center" timestamp="1604153256300">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="879" height="340" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1604153256300" />
+    <state width="879" height="340" key="GridCell.Tab.1.left" timestamp="1604153256300">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="879" height="340" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1604153256300" />
+    <state width="879" height="340" key="GridCell.Tab.1.right" timestamp="1604153256300">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="879" height="340" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1604153256300" />
+    <state x="70" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1604153496043">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="70" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1604153496043" />
   </component>
 </project>
